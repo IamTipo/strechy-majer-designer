@@ -1,0 +1,8 @@
+{
+  "name": "STŘECHY MAJER Designer",
+  "version": "2.5.0",
+  "product": "PREFA R.16",
+  "date": "2026-07-05",
+  "type": "refactoring",
+  "notes": "Rozdělení projektu na samostatné soubory bez změny funkcí a vzhledu."
+}
